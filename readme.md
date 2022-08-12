@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Lawyer Portfolio Landing Page
 
 ### Preview : 
 ![Image](https://github.com/suryauppalapati/lawyer-website-landing-page/blob/main/Assets/output.png)
